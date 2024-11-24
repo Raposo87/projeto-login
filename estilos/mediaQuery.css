@@ -20,6 +20,7 @@ Grandes telas: acima de 1200px
         float: left;
         width: 40%;
         height: 100%;
+        margin-right: 5px;
     }
     .formnulario{
         float: right;
